@@ -1,7 +1,7 @@
 Apples game application
 ==========================
 
-Aymeric de la Brousse -> Example of a successful greedy agent using Deep Q Learning:
+Example of a successful greedy agent using Deep Q Learning in collaboration with Aymeric de la Brousse
 
 
 ![](apples_game_greedy_agent.gif)
